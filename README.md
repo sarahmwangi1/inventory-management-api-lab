@@ -35,7 +35,6 @@ A command-line interface (CLI) is included to allow users to interact with the i
 
 ## Project Structure
 
-```text
 inventory-management-api-lab/
 │
 ├── app.py
@@ -47,3 +46,7 @@ inventory-management-api-lab/
 ├── README.md
 ├── .gitignore
 └── venv/
+
+## OpenFoodFacts Integration
+
+The OpenFoodFacts integration retrieves product information by barcode and can import the product into the inventory system.
