@@ -200,6 +200,7 @@ def import_product():
 
 
 def main():
+    print("\nWelcome to the Inventory Management System!")
     while True:
         print("\n")
         print("================================")
